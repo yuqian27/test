@@ -1,0 +1,102 @@
+{
+    "1":{
+        "FId":1,
+        "FType":"基础卡",
+        "FTitle":"常规伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点常规伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "2":{
+        "FId":2,
+        "FType":"基础卡",
+        "FTitle":"灰毒伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点灰毒伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "3":{
+        "FId":3,
+        "FType":"基础卡",
+        "FTitle":"冰棱伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点冰棱伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "4":{
+        "FId":4,
+        "FType":"基础卡",
+        "FTitle":"疾火伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点疾火伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "5":{
+        "FId":5,
+        "FType":"基础卡",
+        "FTitle":"命土伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点命土伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "6":{
+        "FId":6,
+        "FType":"基础卡",
+        "FTitle":"辉光伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点辉光伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "7":{
+        "FId":7,
+        "FType":"基础卡",
+        "FTitle":"烁金伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点烁金伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "8":{
+        "FId":8,
+        "FType":"基础卡",
+        "FTitle":"破水伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点破水伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "9":{
+        "FId":9,
+        "FType":"基础卡",
+        "FTitle":"劲木伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点劲木伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    },
+    "10":{
+        "FId":10,
+        "FType":"基础卡",
+        "FTitle":"镇雷伤害",
+        "FDamageValue":300,
+        "FTextDescription":"对敌方造成<span style='color:red'>300</span>点镇雷伤害",
+        "FColor":"white",
+        "FVerticalDrawing":"playcard1",
+        "FTopDecoration":"decorate_2"
+    }
+}

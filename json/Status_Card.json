@@ -1,0 +1,72 @@
+{
+    "1":{
+        "FId":1,
+        "FType":"状态卡",
+        "FTitle":"超新星爆炸",
+        "FTextDescription":"对基础疾火伤害进行至<span style='color:#ff0000'>10</span>倍增幅,持续3个回合",
+        "FColor":"#C60000",
+        "FDuration":3,
+        "FVerticalDrawing":"/playerstatus/status1.png",
+        "FTopDecoration":"decorate_3",
+        "FBuffType":"基础卡",
+        "FBuffObj":["疾火伤害"],
+        "FBuffWay":"*",
+        "FBuffValue":10
+    },
+    "2":{
+        "FId":2,
+        "FType":"状态卡",
+        "FTitle":"玄冥星系",
+        "FTextDescription":"每回合吸收敌方1%法力值补充自身，持续5个回合",
+        "FColor":"#6600C6",
+        "FDuration":5,
+        "FVerticalDrawing":"/playerstatus/status2.png",
+        "FTopDecoration":"decorate_3",
+        "FBuffType":"",
+        "FBuffObj":[],
+        "FBuffWay":"",
+        "FBuffValue":0.01
+    },
+    "3":{
+        "FId":3,
+        "FType":"状态卡",
+        "FTitle":"万物天生",
+        "FTextDescription":"对基础疾火伤害进行至<span style='color:#ff0000'>10</span>倍增幅",
+        "FColor":"#3EA300",
+        "FDuration":3,
+        "FVerticalDrawing":"/playerstatus/status3.png",
+        "FTopDecoration":"decorate_3",
+        "FBuffType":"基础卡",
+        "FBuffObj":["疾火伤害"],
+        "FBuffWay":"*",
+        "FBuffValue":10
+    },
+    "4":{
+        "FId":4,
+        "FType":"状态卡",
+        "FTitle":"超新星爆炸",
+        "FTextDescription":"对基础疾火伤害进行至<span style='color:#ff0000'>10</span>倍增幅",
+        "FColor":"#52c9f7",
+        "FDuration":3,
+        "FVerticalDrawing":"status1",
+        "FTopDecoration":"decorate_3",
+        "FBuffType":"基础卡",
+        "FBuffObj":["疾火伤害"],
+        "FBuffWay":"*",
+        "FBuffValue":10
+    },
+    "5":{
+        "FId":5,
+        "FType":"状态卡",
+        "FTitle":"超新星爆炸",
+        "FTextDescription":"对基础疾火伤害进行至<span style='color:#ff0000'>10</span>倍增幅",
+        "FColor":"#52c9f7",
+        "FDuration":3,
+        "FVerticalDrawing":"status1",
+        "FTopDecoration":"decorate_3",
+        "FBuffType":"基础卡",
+        "FBuffObj":["疾火伤害"],
+        "FBuffWay":"*",
+        "FBuffValue":10
+    }
+}
